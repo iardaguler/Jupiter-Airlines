@@ -1,0 +1,10 @@
+C:\Users\iarda\source\repos\FlightTicketProject\bin\Debug\FlightTicketProject.exe.config
+C:\Users\iarda\source\repos\FlightTicketProject\bin\Debug\FlightTicketProject.exe
+C:\Users\iarda\source\repos\FlightTicketProject\bin\Debug\FlightTicketProject.pdb
+C:\Users\iarda\source\repos\FlightTicketProject\obj\Debug\FlightTicketProject.csproj.AssemblyReference.cache
+C:\Users\iarda\source\repos\FlightTicketProject\obj\Debug\FlightTicketProject.Form1.resources
+C:\Users\iarda\source\repos\FlightTicketProject\obj\Debug\FlightTicketProject.Properties.Resources.resources
+C:\Users\iarda\source\repos\FlightTicketProject\obj\Debug\FlightTicketProject.csproj.GenerateResource.cache
+C:\Users\iarda\source\repos\FlightTicketProject\obj\Debug\FlightTicketProject.csproj.CoreCompileInputs.cache
+C:\Users\iarda\source\repos\FlightTicketProject\obj\Debug\FlightTicketProject.exe
+C:\Users\iarda\source\repos\FlightTicketProject\obj\Debug\FlightTicketProject.pdb
